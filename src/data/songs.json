@@ -1,0 +1,614 @@
+[
+  {
+    "id": "s001",
+    "title": "ירושלים של זהב",
+    "artist": "נעמי שמר",
+    "year": 1967,
+    "genre": "eretz",
+    "difficulty": 1,
+    "aliases": [
+      "ירושלים זהב"
+    ],
+    "audioSource": {
+      "type": "itunes",
+      "trackId": 1491761615,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f3/66/09/f3660916-befb-cbbc-89e7-b5bcb2a54086/mzaf_5031765347272449315.plus.aac.p.m4a"
+    },
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/2b/b7/7c/2bb77cb6-ef79-9ce4-372d-b9674464d65e/cover.jpg/600x600bb.jpg",
+    "startSeconds": 5
+  },
+  {
+    "id": "s002",
+    "title": "על כל אלה",
+    "artist": "נעמי שמר",
+    "year": 1980,
+    "genre": "eretz",
+    "difficulty": 2,
+    "aliases": [
+      "הדבש ועוקץ",
+      "על הדבש ועל העוקץ"
+    ],
+    "audioSource": {
+      "type": "itunes",
+      "trackId": 1571267696,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ec/6d/b3/ec6db35b-178b-d2de-f60f-71049fe17614/mzaf_2518845858998733156.plus.aac.p.m4a"
+    },
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ec/82/1e/ec821ef0-2cbd-b8f1-1519-ebcbeb0a7462/7290116161907.png/600x600bb.jpg",
+    "startSeconds": 14
+  },
+  {
+    "id": "s003",
+    "title": "שיר לשלום",
+    "artist": "להקת הנח\"ל",
+    "year": 1969,
+    "genre": "eretz",
+    "difficulty": 2,
+    "aliases": [
+      "שיר השלום"
+    ],
+    "audioSource": {
+      "type": "itunes",
+      "trackId": 1800179381,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8a/00/2f/8a002f63-71bd-4508-555e-1cee0becafe8/mzaf_14602269427972238589.plus.aac.p.m4a"
+    },
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/33/24/873324f4-5379-408c-7703-01d18ecb71c3/7290121549332.png/600x600bb.jpg",
+    "startSeconds": 6
+  },
+  {
+    "id": "s004",
+    "title": "אני ואתה",
+    "artist": "אריק איינשטיין",
+    "year": 1971,
+    "genre": "rock",
+    "difficulty": 1,
+    "aliases": [
+      "אני ואתה נשנה את העולם"
+    ],
+    "audioSource": {
+      "type": "itunes",
+      "trackId": 1570308751,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/19/58/6f/19586f9a-5640-9437-4ac1-18d53f9eddda/mzaf_8201806823001879133.plus.aac.p.m4a"
+    },
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bf/ec/b1/bfecb129-3ccf-d381-ff73-fb6ada787f29/cover.jpg/600x600bb.jpg",
+    "startSeconds": 15
+  },
+  {
+    "id": "s005",
+    "title": "עוף גוזל",
+    "artist": "אריק איינשטיין",
+    "year": 1987,
+    "genre": "eretz",
+    "difficulty": 2,
+    "aliases": [],
+    "audioSource": {
+      "type": "itunes",
+      "trackId": 1571283704,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/be/9c/6abe9c72-63c4-66da-f224-eccca6ec7ead/mzaf_1829484952365847014.plus.aac.p.m4a"
+    },
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c3/da/aa/c3daaaef-b37e-1d40-f7b5-f347b5da0269/7290116161617.png/600x600bb.jpg",
+    "startSeconds": 21
+  },
+  {
+    "id": "s006",
+    "title": "סע לאט",
+    "artist": "אריק איינשטיין",
+    "year": 1973,
+    "genre": "rock",
+    "difficulty": 2,
+    "aliases": [],
+    "audioSource": {
+      "type": "itunes",
+      "trackId": 1570309438,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/aa/76/79/aa7679dd-bfde-56bc-0869-cbcb585ec84f/mzaf_6842254762696591247.plus.aac.p.m4a"
+    },
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bf/ec/b1/bfecb129-3ccf-d381-ff73-fb6ada787f29/cover.jpg/600x600bb.jpg",
+    "startSeconds": 15
+  },
+  {
+    "id": "s007",
+    "title": "יושב על הגדר",
+    "artist": "אריק איינשטיין",
+    "year": 1973,
+    "genre": "rock",
+    "difficulty": 3,
+    "aliases": [],
+    "audioSource": {
+      "type": "itunes",
+      "trackId": 1571747474,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/87/ae/a7/87aea7c2-313b-b2f0-682a-9fe131991cc4/mzaf_17624616298839537023.plus.aac.p.m4a"
+    },
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d8/6c/e3/d86ce39b-29ea-1c29-d876-f6dee2dc5843/7290116162058.png/600x600bb.jpg",
+    "startSeconds": 9
+  },
+  {
+    "id": "s008",
+    "title": "אדם בתוך עצמו",
+    "artist": "שלום חנוך",
+    "year": 1985,
+    "genre": "rock",
+    "difficulty": 2,
+    "aliases": [],
+    "audioSource": {
+      "type": "itunes",
+      "trackId": 1571748427,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ee/76/be/ee76be8c-fa6a-1b86-d98f-b29bb2734363/mzaf_4573232902248898645.plus.aac.p.m4a"
+    },
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c9/b6/f9/c9b6f96d-9310-0549-a6f9-2cad1c629b5c/7290116162003.png/600x600bb.jpg",
+    "startSeconds": 11
+  },
+  {
+    "id": "s009",
+    "title": "מחכים למשיח",
+    "artist": "שלום חנוך",
+    "year": 1985,
+    "genre": "rock",
+    "difficulty": 2,
+    "aliases": [],
+    "audioSource": {
+      "type": "itunes",
+      "trackId": 1571267209,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c6/5b/6f/c65b6fe0-76b7-54ac-2a18-b3ebd80b78ff/mzaf_16214310610935475323.plus.aac.p.m4a"
+    },
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/8c/51/2a8c5158-6bdd-b59e-9c57-bfc90e7a37a2/7290116161976.png/600x600bb.jpg",
+    "startSeconds": 19
+  },
+  {
+    "id": "s010",
+    "title": "הפרח בגני",
+    "artist": "זהר ארגוב",
+    "year": 1982,
+    "genre": "mizrahi",
+    "difficulty": 1,
+    "aliases": [
+      "פרח בגני"
+    ],
+    "audioSource": {
+      "type": "itunes",
+      "trackId": 878724304,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/f4/91/abf49116-0384-fc3f-2030-23f175cf3ba6/mzaf_5299911201191829094.plus.aac.p.m4a"
+    },
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6d/1d/99/6d1d99e5-9f3e-e94b-a8d6-159dabc2cad2/888831113409.jpg/600x600bb.jpg",
+    "startSeconds": 19
+  },
+  {
+    "id": "s011",
+    "title": "בדד",
+    "artist": "זהר ארגוב",
+    "year": 1981,
+    "genre": "mizrahi",
+    "difficulty": 3,
+    "aliases": [],
+    "audioSource": {
+      "type": "itunes",
+      "trackId": 878840166,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/83/23/7e/83237e08-bece-6e99-edf4-e60e45c61c18/mzaf_17435205083141524736.plus.aac.p.m4a"
+    },
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/e2/8f/4f/e28f4ff1-d46f-d084-d4a1-2acbb60adae4/888831113423.jpg/600x600bb.jpg",
+    "startSeconds": 14
+  },
+  {
+    "id": "s012",
+    "title": "תרקוד",
+    "artist": "שלמה ארצי",
+    "year": 1995,
+    "genre": "pop",
+    "difficulty": 2,
+    "aliases": [],
+    "audioSource": {
+      "type": "itunes",
+      "trackId": 1572593540,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f8/00/9b/f8009bc6-196d-046f-04d2-c4bf7e25857b/mzaf_3187618753741439934.plus.aac.p.m4a"
+    },
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4d/35/bd/4d35bda3-ab1c-fe39-6352-b12aa4a03478/7290116166407.png/600x600bb.jpg",
+    "startSeconds": 11
+  },
+  {
+    "id": "s013",
+    "title": "ירח",
+    "artist": "שלמה ארצי",
+    "year": 1998,
+    "genre": "pop",
+    "difficulty": 2,
+    "aliases": [],
+    "audioSource": {
+      "type": "itunes",
+      "trackId": 484992797,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cd/dd/4b/cddd4b78-16f9-2e71-5f2a-34bc8199796e/mzaf_2159732774818566938.plus.aac.p.m4a"
+    },
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1f/94/07/1f9407c0-6c43-84dc-0b83-e7f16f07c1d0/7293372549427.png/600x600bb.jpg",
+    "startSeconds": 9
+  },
+  {
+    "id": "s014",
+    "title": "אהבתיה",
+    "artist": "שלמה ארצי",
+    "year": 1975,
+    "genre": "pop",
+    "difficulty": 2,
+    "aliases": [],
+    "audioSource": {
+      "type": "itunes",
+      "trackId": 618092128,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/75/24/39/75243974-0fb4-acb0-b37d-9d5487c49cc1/mzaf_13806476010137014202.plus.aac.p.m4a"
+    },
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f6/7e/71/f67e718e-e718-029a-64bb-17069566c6db/7294276650288.png/600x600bb.jpg",
+    "startSeconds": 18
+  },
+  {
+    "id": "s015",
+    "title": "גבר הולך לאיבוד",
+    "artist": "שלמה ארצי",
+    "year": 1984,
+    "genre": "rock",
+    "difficulty": 2,
+    "aliases": [],
+    "audioSource": {
+      "type": "itunes",
+      "trackId": 1572596460,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9c/07/c8/9c07c893-3d03-147a-e340-227acf042957/mzaf_932295990855160039.plus.aac.p.m4a"
+    },
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/99/02/33/990233a5-feee-4746-a27d-54f6b3f88efa/7290116166025.png/600x600bb.jpg",
+    "startSeconds": 7
+  },
+  {
+    "id": "s016",
+    "title": "רכבת לילה לקהיר",
+    "artist": "משינה",
+    "year": 1986,
+    "genre": "rock",
+    "difficulty": 1,
+    "aliases": [
+      "רכבת לילה"
+    ],
+    "audioSource": {
+      "type": "itunes",
+      "trackId": 201162146,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e7/1f/b3/e71fb32f-3d84-d37f-b113-a54a9cdb9eb6/mzaf_17046232460113589921.plus.aac.p.m4a"
+    },
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/a9/5a/62/mzi.otisiaqz.jpg/600x600bb.jpg",
+    "startSeconds": 19
+  },
+  {
+    "id": "s017",
+    "title": "יו יה",
+    "artist": "כוורת",
+    "year": 1973,
+    "genre": "rock",
+    "difficulty": 2,
+    "aliases": [
+      "יויה"
+    ],
+    "audioSource": {
+      "type": "itunes",
+      "trackId": 584832175,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/91/3d/0c/913d0ce0-e5d8-12d0-53b0-63d32851d524/mzaf_4101411792344913935.plus.aac.p.m4a"
+    },
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6a/d1/7b/6ad17b85-52c8-1bac-cbaf-d5eef3ffa932/7293372143762.png/600x600bb.jpg",
+    "startSeconds": 5
+  },
+  {
+    "id": "s018",
+    "title": "שיר המכולת",
+    "artist": "כוורת",
+    "year": 1973,
+    "genre": "rock",
+    "difficulty": 3,
+    "aliases": [
+      "המכולת"
+    ],
+    "audioSource": {
+      "type": "itunes",
+      "trackId": 584832124,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/da/de/3e/dade3e0f-58f2-5134-5bfa-2bd0fd1468ad/mzaf_471292805520661417.plus.aac.p.m4a"
+    },
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6a/d1/7b/6ad17b85-52c8-1bac-cbaf-d5eef3ffa932/7293372143762.png/600x600bb.jpg",
+    "startSeconds": 7
+  },
+  {
+    "id": "s019",
+    "title": "הללויה",
+    "artist": "גלי עטרי וחלב ודבש",
+    "year": 1979,
+    "genre": "eurovision",
+    "difficulty": 1,
+    "aliases": [
+      "הללויה",
+      "hallelujah"
+    ],
+    "audioSource": {
+      "type": "itunes",
+      "trackId": 1724997885,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1a/1c/fe/1a1cfe5c-671b-0a20-4557-0bcc26754515/mzaf_4240530465802830791.plus.aac.p.m4a"
+    },
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/66/eb/c8/66ebc876-a3bf-bd72-5f82-08204dbbe5dd/cover.jpg/600x600bb.jpg",
+    "startSeconds": 14
+  },
+  {
+    "id": "s020",
+    "title": "Toy",
+    "artist": "נטע ברזילי",
+    "year": 2018,
+    "genre": "eurovision",
+    "difficulty": 1,
+    "aliases": [
+      "טוי",
+      "טוי נטע"
+    ],
+    "audioSource": {
+      "type": "itunes",
+      "trackId": 1393107604,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/48/8c/b1/488cb168-9363-5bd2-06d0-f09f5635014f/mzaf_3005824827592784831.plus.aac.p.m4a"
+    },
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5d/c3/56/5dc356ee-4c39-1bfd-fcbd-fe74ab0883fb/4050538415384.jpg/600x600bb.jpg",
+    "startSeconds": 9
+  },
+  {
+    "id": "s021",
+    "title": "חי",
+    "artist": "עפרה חזה",
+    "year": 1983,
+    "genre": "eurovision",
+    "difficulty": 2,
+    "aliases": [
+      "עם ישראל חי"
+    ],
+    "audioSource": {
+      "type": "itunes",
+      "trackId": 1450278766,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/ce/2c/42ce2cea-494e-2b0b-4a95-cf56e95651a2/mzaf_404077641999484273.plus.aac.p.m4a"
+    },
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/dd/50/8b/dd508bb0-2987-daa4-12ad-0aad22651541/7290111899041.jpg/600x600bb.jpg",
+    "startSeconds": 9
+  },
+  {
+    "id": "s022",
+    "title": "Golden Boy",
+    "artist": "נדב גדג'",
+    "year": 2015,
+    "genre": "eurovision",
+    "difficulty": 2,
+    "aliases": [
+      "גולדן בוי"
+    ],
+    "audioSource": {
+      "type": "itunes",
+      "trackId": 1546240647,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b5/de/d9/b5ded98c-66d9-e856-838b-92af52aecdad/mzaf_11571499639649004170.plus.aac.p.m4a"
+    },
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ae/3d/71/ae3d717e-eea8-58e2-9120-a61cf6f487c6/7290105444936.png/600x600bb.jpg",
+    "startSeconds": 16
+  },
+  {
+    "id": "s023",
+    "title": "Hurricane",
+    "artist": "עדן גולן",
+    "year": 2024,
+    "genre": "eurovision",
+    "difficulty": 2,
+    "aliases": [
+      "הוריקן",
+      "October Rain",
+      "אוקטובר ריין"
+    ],
+    "audioSource": {
+      "type": "itunes",
+      "trackId": 1734416121,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/81/e4/5d/81e45d8b-48c5-435d-5ae9-2ce1d2a6cab4/mzaf_5391557328066627921.plus.aac.p.m4a"
+    },
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d0/e0/e4/d0e0e40b-c872-6da6-cbd0-d0b1f3bcf0f1/4d3a7c1c-dff2-4eeb-b2f3-1e55e44f8eb2.jpg/600x600bb.jpg",
+    "startSeconds": 20
+  },
+  {
+    "id": "s024",
+    "title": "New Day Will Rise",
+    "artist": "יובל רפאל",
+    "year": 2025,
+    "genre": "eurovision",
+    "difficulty": 2,
+    "aliases": [
+      "ניו דיי וויל רייז",
+      "new day"
+    ],
+    "audioSource": {
+      "type": "itunes",
+      "trackId": 1799929832,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/99/07/71/990771cb-f6d5-c0ce-faa3-3cd075b989ce/mzaf_13022998226361911302.plus.aac.p.m4a"
+    },
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6d/91/15/6d9115f5-fb63-a29b-b5ac-e81b84623f27/7290121549240.png/600x600bb.jpg",
+    "startSeconds": 2
+  },
+  {
+    "id": "s025",
+    "title": "אהבת חיי",
+    "artist": "חיים משה",
+    "year": 1983,
+    "genre": "mizrahi",
+    "difficulty": 2,
+    "aliases": [],
+    "audioSource": {
+      "type": "itunes",
+      "trackId": 878702595,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a7/8a/9b/a78a9bf5-516b-7092-e9b3-09f85670ab76/mzaf_2473551695674667794.plus.aac.p.m4a"
+    },
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/77/9e/b1/779eb1cb-5df8-3207-4a1e-1389ba326278/888831113508.jpg/600x600bb.jpg",
+    "startSeconds": 15
+  },
+  {
+    "id": "s026",
+    "title": "טיפת מזל",
+    "artist": "זהבה בן",
+    "year": 1992,
+    "genre": "mizrahi",
+    "difficulty": 1,
+    "aliases": [],
+    "audioSource": {
+      "type": "itunes",
+      "trackId": 889572829,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/aa/80/e2/aa80e239-7934-48a2-4d36-52748d2a1e4e/mzaf_6183745319373524085.plus.aac.p.m4a"
+    },
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4b/0c/df/4b0cdfb7-cf17-8790-6f4a-d07fc342586d/888831244103.jpg/600x600bb.jpg",
+    "startSeconds": 5
+  },
+  {
+    "id": "s027",
+    "title": "כמו סינדרלה",
+    "artist": "שרית חדד",
+    "year": 2002,
+    "genre": "mizrahi",
+    "difficulty": 2,
+    "aliases": [
+      "סינדרלה"
+    ],
+    "audioSource": {
+      "type": "itunes",
+      "trackId": 1102770500,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/64/62/8c/64628c6a-c6d8-d24e-4a14-ef99912bcb8a/mzaf_5073205287111665945.plus.aac.p.m4a"
+    },
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b1/b3/b2/b1b3b297-f5cc-b33a-430e-f797136242d4/7293372100123.png/600x600bb.jpg",
+    "startSeconds": 18
+  },
+  {
+    "id": "s028",
+    "title": "תל אביב",
+    "artist": "עומר אדם וארסה",
+    "year": 2016,
+    "genre": "mizrahi",
+    "difficulty": 1,
+    "aliases": [],
+    "audioSource": {
+      "type": "itunes",
+      "trackId": 1447881363,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2d/f0/aa/2df0aa01-01bb-3a84-e5fd-2b7d2aa5d6ec/mzaf_2179805343696694116.plus.aac.p.m4a"
+    },
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/84/77/16/8477168b-16a5-ab73-4123-ad278c60d744/7290111898730.jpg/600x600bb.jpg",
+    "startSeconds": 17
+  },
+  {
+    "id": "s029",
+    "title": "שני משוגעים",
+    "artist": "עומר אדם",
+    "year": 2014,
+    "genre": "mizrahi",
+    "difficulty": 2,
+    "aliases": [],
+    "audioSource": {
+      "type": "itunes",
+      "trackId": 1447223851,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/92/f5/da/92f5dac9-5399-8d0a-05a2-2d1feeb5a32d/mzaf_15600727783098231696.plus.aac.p.m4a"
+    },
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9a/ea/90/9aea902b-6b9f-fbab-547b-fe3526931f0a/7290111898150.png/600x600bb.jpg",
+    "startSeconds": 21
+  },
+  {
+    "id": "s030",
+    "title": "מלכת השושנים",
+    "artist": "עדן בן זקן",
+    "year": 2015,
+    "genre": "mizrahi",
+    "difficulty": 1,
+    "aliases": [],
+    "audioSource": {
+      "type": "itunes",
+      "trackId": 1434394353,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d7/e0/6d/d7e06d2b-3c06-75ec-2607-1a65f83b88fd/mzaf_7899562791915069255.plus.aac.p.m4a"
+    },
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e3/de/b4/e3deb42f-54a8-3b5f-1814-86faef1ec763/7294276307915.png/600x600bb.jpg",
+    "startSeconds": 20
+  },
+  {
+    "id": "s031",
+    "title": "שביל הבריחה",
+    "artist": "ריטה",
+    "year": 1988,
+    "genre": "pop",
+    "difficulty": 2,
+    "aliases": [],
+    "audioSource": {
+      "type": "itunes",
+      "trackId": 1465631433,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1a/e6/fc/1ae6fc56-aa73-af05-de79-0fb40b063ad1/mzaf_9976015585728898045.plus.aac.p.m4a"
+    },
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/2d/56/fc/2d56fc01-7da8-a8e8-bf5e-67c0a74777b8/cover.jpg/600x600bb.jpg",
+    "startSeconds": 19
+  },
+  {
+    "id": "s032",
+    "title": "התקווה",
+    "artist": "סאבלימינל והצל",
+    "year": 2002,
+    "genre": "hiphop",
+    "difficulty": 2,
+    "aliases": [],
+    "audioSource": {
+      "type": "itunes",
+      "trackId": 1573577420,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fe/33/b0/fe33b0dd-dc37-6b33-378b-d696cb7b20cc/mzaf_12894214366903836608.plus.aac.p.m4a"
+    },
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d7/7f/12/d77f12d3-8e43-cbc1-d05b-553d55cf2f9f/7290115399943.png/600x600bb.jpg",
+    "startSeconds": 14
+  },
+  {
+    "id": "s033",
+    "title": "אור הירח",
+    "artist": "אביב גפן",
+    "year": 1996,
+    "genre": "rock",
+    "difficulty": 2,
+    "aliases": [],
+    "audioSource": {
+      "type": "itunes",
+      "trackId": 1572564622,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/21/f2/c1/21f2c119-f2e0-34c7-6c30-6b1e9c897f26/mzaf_9401770763265172416.plus.aac.p.m4a"
+    },
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/51/92/17/51921784-45dc-f7a0-662d-11e96e909b4e/7290116166551.png/600x600bb.jpg",
+    "startSeconds": 18
+  },
+  {
+    "id": "s034",
+    "title": "לונדון",
+    "artist": "חוה אלברשטיין",
+    "year": 1989,
+    "genre": "pop",
+    "difficulty": 3,
+    "aliases": [],
+    "audioSource": {
+      "type": "itunes",
+      "trackId": 1571274495,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/da/3f/18/da3f18ca-2dc4-7e71-1eb8-16db9ace7a7a/mzaf_12013166199894442288.plus.aac.p.m4a"
+    },
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ca/b5/c4/cab5c43c-d0fd-e163-3f1b-e97e7e46f484/7290116161716.png/600x600bb.jpg",
+    "startSeconds": 2
+  },
+  {
+    "id": "s035",
+    "title": "נולדתי לשלום",
+    "artist": "עוזי חיטמן",
+    "year": 1983,
+    "genre": "kids",
+    "difficulty": 2,
+    "aliases": [],
+    "audioSource": {
+      "type": "itunes",
+      "trackId": 1485456759,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f3/9d/de/f39ddeca-2029-0f59-ec15-1b1c3fbf58a1/mzaf_301202812254320263.plus.aac.p.m4a"
+    },
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/e1/b9/72/e1b972a3-cbfe-9a34-54ce-2f86991136f0/cover.jpg/600x600bb.jpg",
+    "startSeconds": 3
+  },
+  {
+    "id": "s036",
+    "title": "בשנה הבאה",
+    "artist": "אילנית",
+    "year": 1970,
+    "genre": "kids",
+    "difficulty": 1,
+    "aliases": [],
+    "audioSource": {
+      "type": "itunes",
+      "trackId": 1730537381,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/82/06/3c/82063c74-d296-7ce3-f1c2-97e925c10aa7/mzaf_18420675162761143194.plus.aac.p.m4a"
+    },
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/91/30/b7/9130b795-9a68-a16d-762a-a8114d30d8a0/cover.jpg/600x600bb.jpg",
+    "startSeconds": 17
+  }
+]
