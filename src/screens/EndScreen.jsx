@@ -5,11 +5,11 @@ import StudioBackground from '../components/StudioBackground'
 import { hostLine, speakHost } from '../lib/host'
 import { sfx } from '../lib/sfx'
 
-export default function EndScreen({ players, onRematch, onHome }) {
+export default function EndScreen({ players, onRematch, onHome, rematchLabel = '🔄 משחק חוזר', homeLabel = '🏠 לתפריט הראשי', waitingText, line: lineOverride }) {
   const ranked = [...players].sort((a, b) => b.score - a.score || b.correct - a.correct)
   const tie = ranked.length > 1 && ranked[0].score === ranked[1].score
   const winner = ranked[0]
-  const line = tie ? 'תיקו!!! אין מנצח, אבל יש הרבה כבוד. ובעיקר תירוצים. משחק חוזר?' : hostLine('winner', { p: winner.name })
+  const line = lineOverride || (tie ? 'תיקו!!! אין מנצח, אבל יש הרבה כבוד. ובעיקר תירוצים. משחק חוזר?' : hostLine('winner', { p: winner.name }))
 
   useEffect(() => {
     sfx.drumroll(1.1)
@@ -79,11 +79,15 @@ export default function EndScreen({ players, onRematch, onHome }) {
         </div>
 
         <div className="mt-6 flex w-full flex-col gap-3 sm:flex-row">
-          <button type="button" onClick={onRematch} className="flex-1 rounded-2xl bg-gradient-to-l from-neon-pink to-[#b06bff] py-3.5 font-display text-xl shadow-[0_0_24px_#ff2d95] transition hover:brightness-110">
-            🔄 משחק חוזר
-          </button>
+          {onRematch ? (
+            <button type="button" onClick={onRematch} className="flex-1 rounded-2xl bg-gradient-to-l from-neon-pink to-[#b06bff] py-3.5 font-display text-xl shadow-[0_0_24px_#ff2d95] transition hover:brightness-110">
+              {rematchLabel}
+            </button>
+          ) : (
+            waitingText && <div className="flex-1 rounded-2xl border border-white/15 bg-white/5 py-3.5 text-white/70">{waitingText}</div>
+          )}
           <button type="button" onClick={onHome} className="glass flex-1 rounded-2xl py-3.5 font-display text-xl transition hover:bg-white/10">
-            🏠 לתפריט הראשי
+            {homeLabel}
           </button>
         </div>
       </div>

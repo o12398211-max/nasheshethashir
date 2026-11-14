@@ -9,7 +9,6 @@ import StudioBackground from '../components/StudioBackground'
 import TimerRing from '../components/TimerRing'
 import Visualizer from '../components/Visualizer'
 import { useBuzzerKeys } from '../hooks/useBuzzerKeys'
-import { useClipPlayer } from '../hooks/useClipPlayer'
 import { useNow } from '../hooks/useNow'
 import { scoreFor, shuffle, TIMING } from '../lib/game'
 import { isCorrectAnswer } from '../lib/hebrew'
@@ -20,9 +19,8 @@ import { sfx } from '../lib/sfx'
  * 1-vs-1 duel. Phases:
  * intro → countdown → listening → answering (→ steal) → reveal → … → end
  */
-export default function DuelScreen({ config, songs, onEnd, onExit }) {
+export default function DuelScreen({ config, songs, onEnd, onExit, clip }) {
   const { target, maxRounds, mic } = config
-  const clip = useClipPlayer()
   const deck = useRef(shuffle(songs))
   const [players, setPlayers] = useState(() => config.players.map((p) => ({ ...p, score: 0, streak: 0, bestStreak: 0, correct: 0, buzzTimes: [] })))
   const [phase, setPhase] = useState('intro')

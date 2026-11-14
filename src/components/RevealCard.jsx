@@ -7,7 +7,7 @@ const HEAD = {
   skipped: { t: 'דילגתם - הנה התשובה', c: '#00e5ff' },
 }
 
-export default function RevealCard({ song, outcome, onNext, isLast, playing }) {
+export default function RevealCard({ song, outcome, onNext, isLast, playing, waitingFor }) {
   const h = HEAD[outcome.type] || HEAD.nobody
   return (
     <div className="glass pop-in w-full max-w-md rounded-3xl p-5 text-center shadow-2xl" style={{ boxShadow: `0 0 50px ${h.c}66` }}>
@@ -48,10 +48,16 @@ export default function RevealCard({ song, outcome, onNext, isLast, playing }) {
           )}
         </div>
       </div>
-      <button type="button" onClick={onNext} className="mt-5 w-full rounded-2xl bg-gradient-to-l from-neon-pink to-[#b06bff] py-3 text-lg font-bold shadow-[0_0_24px_#ff2d95] transition hover:brightness-110 active:scale-[0.98]">
-        {isLast ? 'לתוצאות הסופיות 🏆' : 'לסיבוב הבא ←'}
-      </button>
-      <div className="mt-2 hidden text-xs text-white/40 sm:block">או לחצו רווח</div>
+      {waitingFor ? (
+        <div className="mt-5 rounded-2xl border border-white/15 bg-white/5 py-3 text-white/70">ממתינים ש{waitingFor} ימשיך/תמשיך...</div>
+      ) : (
+        <>
+          <button type="button" onClick={onNext} className="mt-5 w-full rounded-2xl bg-gradient-to-l from-neon-pink to-[#b06bff] py-3 text-lg font-bold shadow-[0_0_24px_#ff2d95] transition hover:brightness-110 active:scale-[0.98]">
+            {isLast ? 'לתוצאות הסופיות 🏆' : 'לסיבוב הבא ←'}
+          </button>
+          <div className="mt-2 hidden text-xs text-white/40 sm:block">או לחצו רווח</div>
+        </>
+      )}
     </div>
   )
 }
